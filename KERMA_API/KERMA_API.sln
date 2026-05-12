@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KERMA", "KERMA\KERMA.csproj", "{45B3DA18-1D1C-4BC6-9CF4-B1FFFC98C630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45B3DA18-1D1C-4BC6-9CF4-B1FFFC98C630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B3DA18-1D1C-4BC6-9CF4-B1FFFC98C630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B3DA18-1D1C-4BC6-9CF4-B1FFFC98C630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B3DA18-1D1C-4BC6-9CF4-B1FFFC98C630}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5B7E43D-6634-49B7-8EA3-AEFC54F4093B}
+	EndGlobalSection
+EndGlobal
