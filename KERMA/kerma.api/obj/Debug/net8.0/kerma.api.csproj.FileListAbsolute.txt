@@ -372,3 +372,7 @@ D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.api\bin\Debug\net8.0\runtime
 D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.api\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.IO.Ports.dll
 D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.IO.Ports.dll
 D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.api\obj\Debug\net8.0\kerma.api.MvcApplicationPartsAssemblyInfo.cs
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.api\bin\Debug\net8.0\appsettings.Production.json
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.api\bin\Debug\net8.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.api\bin\Debug\net8.0\Microsoft.Net.Http.Headers.dll
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.api\bin\Debug\net8.0\Resend.dll

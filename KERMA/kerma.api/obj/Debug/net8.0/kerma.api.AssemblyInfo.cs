@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kerma.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06e9c81edd506a2e0602b3a699e320aea68cea8a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87ae551e3bf1bb2e219beaa967e66489a68268e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("kerma.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kerma.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

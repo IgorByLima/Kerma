@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kerma.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+119cbef2227dc2695cbccc50817e170ac7761f1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87ae551e3bf1bb2e219beaa967e66489a68268e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kerma.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kerma.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
