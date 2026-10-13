@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kerma.domain", "kerma.domain\kerma.domain.csproj", "{A1C9A1BC-EEC7-4E75-A0DC-DB6F447BB3F6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kerma.application", "kerma.application\kerma.application.csproj", "{6479082D-89A3-4698-9EB0-67F01638510C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kerma.Infrastructure", "kerma.infra\Kerma.Infrastructure.csproj", "{0BA28DB1-5306-4CC0-9D46-8272F00CCFA3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kerma.api", "kerma.api\kerma.api.csproj", "{A3FB35D3-58D9-48F0-8887-42F70F5474CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1C9A1BC-EEC7-4E75-A0DC-DB6F447BB3F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C9A1BC-EEC7-4E75-A0DC-DB6F447BB3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C9A1BC-EEC7-4E75-A0DC-DB6F447BB3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C9A1BC-EEC7-4E75-A0DC-DB6F447BB3F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6479082D-89A3-4698-9EB0-67F01638510C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6479082D-89A3-4698-9EB0-67F01638510C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6479082D-89A3-4698-9EB0-67F01638510C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6479082D-89A3-4698-9EB0-67F01638510C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BA28DB1-5306-4CC0-9D46-8272F00CCFA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA28DB1-5306-4CC0-9D46-8272F00CCFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA28DB1-5306-4CC0-9D46-8272F00CCFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA28DB1-5306-4CC0-9D46-8272F00CCFA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3FB35D3-58D9-48F0-8887-42F70F5474CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FB35D3-58D9-48F0-8887-42F70F5474CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FB35D3-58D9-48F0-8887-42F70F5474CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FB35D3-58D9-48F0-8887-42F70F5474CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5A5173D-2F03-4506-872C-C778E5ACDD92}
+	EndGlobalSection
+EndGlobal

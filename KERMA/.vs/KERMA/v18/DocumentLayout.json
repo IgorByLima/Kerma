@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desenvolvimento\\Dotlin\\DOTLIN_QUERMA\\KERMA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FB35D3-58D9-48F0-8887-42F70F5474CE}|kerma.api\\kerma.api.csproj|d:\\desenvolvimento\\dotlin\\dotlin_querma\\kerma\\kerma.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3FB35D3-58D9-48F0-8887-42F70F5474CE}|kerma.api\\kerma.api.csproj|solutionrelative:kerma.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FB35D3-58D9-48F0-8887-42F70F5474CE}|kerma.api\\kerma.api.csproj|d:\\desenvolvimento\\dotlin\\dotlin_querma\\kerma\\kerma.api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3FB35D3-58D9-48F0-8887-42F70F5474CE}|kerma.api\\kerma.api.csproj|solutionrelative:kerma.api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6479082D-89A3-4698-9EB0-67F01638510C}|kerma.application\\kerma.application.csproj|d:\\desenvolvimento\\dotlin\\dotlin_querma\\kerma\\kerma.application\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6479082D-89A3-4698-9EB0-67F01638510C}|kerma.application\\kerma.application.csproj|solutionrelative:kerma.application\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FB35D3-58D9-48F0-8887-42F70F5474CE}|kerma.api\\kerma.api.csproj|d:\\desenvolvimento\\dotlin\\dotlin_querma\\kerma\\kerma.api\\controllers\\impressaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FB35D3-58D9-48F0-8887-42F70F5474CE}|kerma.api\\kerma.api.csproj|solutionrelative:kerma.api\\controllers\\impressaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6479082D-89A3-4698-9EB0-67F01638510C}|kerma.application\\kerma.application.csproj|d:\\desenvolvimento\\dotlin\\dotlin_querma\\kerma\\kerma.application\\services\\vendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6479082D-89A3-4698-9EB0-67F01638510C}|kerma.application\\kerma.application.csproj|solutionrelative:kerma.application\\services\\vendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FB35D3-58D9-48F0-8887-42F70F5474CE}|kerma.api\\kerma.api.csproj|d:\\desenvolvimento\\dotlin\\dotlin_querma\\kerma\\kerma.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FB35D3-58D9-48F0-8887-42F70F5474CE}|kerma.api\\kerma.api.csproj|solutionrelative:kerma.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6479082D-89A3-4698-9EB0-67F01638510C}|kerma.application\\kerma.application.csproj|d:\\desenvolvimento\\dotlin\\dotlin_querma\\kerma\\kerma.application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6479082D-89A3-4698-9EB0-67F01638510C}|kerma.application\\kerma.application.csproj|solutionrelative:kerma.application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6479082D-89A3-4698-9EB0-67F01638510C}|kerma.application\\kerma.application.csproj|d:\\desenvolvimento\\dotlin\\dotlin_querma\\kerma\\kerma.application\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6479082D-89A3-4698-9EB0-67F01638510C}|kerma.application\\kerma.application.csproj|solutionrelative:kerma.application\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FB35D3-58D9-48F0-8887-42F70F5474CE}|kerma.api\\kerma.api.csproj|d:\\desenvolvimento\\dotlin\\dotlin_querma\\kerma\\kerma.api\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FB35D3-58D9-48F0-8887-42F70F5474CE}|kerma.api\\kerma.api.csproj|solutionrelative:kerma.api\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "D:\\Desenvolvimento\\Dotlin\\DOTLIN_QUERMA\\KERMA\\kerma.api\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "kerma.api\\appsettings.Production.json",
+              "ToolTip": "D:\\Desenvolvimento\\Dotlin\\DOTLIN_QUERMA\\KERMA\\kerma.api\\appsettings.Production.json",
+              "RelativeToolTip": "kerma.api\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-12T23:50:42.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Desenvolvimento\\Dotlin\\DOTLIN_QUERMA\\KERMA\\kerma.api\\appsettings.json",
+              "RelativeDocumentMoniker": "kerma.api\\appsettings.json",
+              "ToolTip": "D:\\Desenvolvimento\\Dotlin\\DOTLIN_QUERMA\\KERMA\\kerma.api\\appsettings.json",
+              "RelativeToolTip": "kerma.api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-12T20:07:49.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\Desenvolvimento\\Dotlin\\DOTLIN_QUERMA\\KERMA\\kerma.application\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "kerma.application\\Services\\EmailService.cs",
+              "ToolTip": "D:\\Desenvolvimento\\Dotlin\\DOTLIN_QUERMA\\KERMA\\kerma.application\\Services\\EmailService.cs",
+              "RelativeToolTip": "kerma.application\\Services\\EmailService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T20:07:09.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImpressaoController.cs",
+              "DocumentMoniker": "D:\\Desenvolvimento\\Dotlin\\DOTLIN_QUERMA\\KERMA\\kerma.api\\Controllers\\ImpressaoController.cs",
+              "RelativeDocumentMoniker": "kerma.api\\Controllers\\ImpressaoController.cs",
+              "ToolTip": "D:\\Desenvolvimento\\Dotlin\\DOTLIN_QUERMA\\KERMA\\kerma.api\\Controllers\\ImpressaoController.cs",
+              "RelativeToolTip": "kerma.api\\Controllers\\ImpressaoController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwCcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T19:45:23.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VendaService.cs",
+              "DocumentMoniker": "D:\\Desenvolvimento\\Dotlin\\DOTLIN_QUERMA\\KERMA\\kerma.application\\Services\\VendaService.cs",
+              "RelativeDocumentMoniker": "kerma.application\\Services\\VendaService.cs",
+              "ToolTip": "D:\\Desenvolvimento\\Dotlin\\DOTLIN_QUERMA\\KERMA\\kerma.application\\Services\\VendaService.cs",
+              "RelativeToolTip": "kerma.application\\Services\\VendaService.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAKgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T19:40:54.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "D:\\Desenvolvimento\\Dotlin\\DOTLIN_QUERMA\\KERMA\\kerma.api\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "kerma.api\\Controllers\\UsuariosController.cs",
+              "ToolTip": "D:\\Desenvolvimento\\Dotlin\\DOTLIN_QUERMA\\KERMA\\kerma.api\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "kerma.api\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAlwHMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T19:27:25.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "D:\\Desenvolvimento\\Dotlin\\DOTLIN_QUERMA\\KERMA\\kerma.application\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "kerma.application\\Services\\UsuarioService.cs",
+              "ToolTip": "D:\\Desenvolvimento\\Dotlin\\DOTLIN_QUERMA\\KERMA\\kerma.application\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "kerma.application\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAFEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T19:25:57.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "D:\\Desenvolvimento\\Dotlin\\DOTLIN_QUERMA\\KERMA\\kerma.api\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "kerma.api\\Controllers\\TicketsController.cs",
+              "ToolTip": "D:\\Desenvolvimento\\Dotlin\\DOTLIN_QUERMA\\KERMA\\kerma.api\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "kerma.api\\Controllers\\TicketsController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAwHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T18:15:32.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "D:\\Desenvolvimento\\Dotlin\\DOTLIN_QUERMA\\KERMA\\kerma.application\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "kerma.application\\Services\\TicketService.cs",
+              "ToolTip": "D:\\Desenvolvimento\\Dotlin\\DOTLIN_QUERMA\\KERMA\\kerma.application\\Services\\TicketService.cs",
+              "RelativeToolTip": "kerma.application\\Services\\TicketService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvzsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T18:14:44.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

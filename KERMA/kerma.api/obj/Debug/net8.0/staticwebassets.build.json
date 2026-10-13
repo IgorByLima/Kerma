@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8e4RgWjE4rL1VC6aNCMQmiTmXS0j23wvjPMU03mjC10=",
+  "Source": "kerma.api",
+  "BasePath": "_content/kerma.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

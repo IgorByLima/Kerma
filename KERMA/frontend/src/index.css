@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+:root {
+  --kerma-bg: #0f0520;
+  --kerma-surface: #1a0a2e;
+  --kerma-surface-2: #2d1155;
+  --kerma-border: #2d1155;
+  --kerma-border-gold: #b8860b44;
+  --kerma-purple: #4a1b8a;
+  --kerma-purple-light: #c084fc;
+  --kerma-purple-muted: #6b4fa0;
+  --kerma-purple-text: #9c7bc4;
+  --kerma-gold: #b8860b;
+  --kerma-text: #e8d5ff;
+  --kerma-text-muted: #6b4fa0;
+}
+export interface TicketImpressao {
+  codigo: string;
+  nomeItem: string;
+  eventoNome: string;
+}

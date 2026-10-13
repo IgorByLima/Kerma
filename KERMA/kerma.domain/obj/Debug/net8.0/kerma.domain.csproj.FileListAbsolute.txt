@@ -1,0 +1,34 @@
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.domain\bin\Debug\net8.0\kerma.domain.deps.json
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.domain\bin\Debug\net8.0\kerma.domain.dll
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.domain\bin\Debug\net8.0\kerma.domain.pdb
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.domain\obj\Debug\net8.0\kerma.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.domain\obj\Debug\net8.0\kerma.domain.AssemblyInfoInputs.cache
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.domain\obj\Debug\net8.0\kerma.domain.AssemblyInfo.cs
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.domain\obj\Debug\net8.0\kerma.domain.csproj.CoreCompileInputs.cache
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.domain\obj\Debug\net8.0\kerma.domain.dll
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.domain\obj\Debug\net8.0\refint\kerma.domain.dll
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.domain\obj\Debug\net8.0\kerma.domain.pdb
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.domain\obj\Debug\net8.0\ref\kerma.domain.dll
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.domain\bin\Debug\net8.0\kerma.domain.deps.json
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.domain\bin\Debug\net8.0\kerma.domain.dll
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.domain\bin\Debug\net8.0\kerma.domain.pdb
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.domain\obj\Debug\net8.0\kerma.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.domain\obj\Debug\net8.0\kerma.domain.AssemblyInfoInputs.cache
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.domain\obj\Debug\net8.0\kerma.domain.AssemblyInfo.cs
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.domain\obj\Debug\net8.0\kerma.domain.csproj.CoreCompileInputs.cache
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.domain\obj\Debug\net8.0\kerma.domain.dll
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.domain\obj\Debug\net8.0\refint\kerma.domain.dll
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.domain\obj\Debug\net8.0\kerma.domain.pdb
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.domain\obj\Debug\net8.0\ref\kerma.domain.dll
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.domain\bin\Debug\net8.0\kerma.domain.deps.json
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.domain\bin\Debug\net8.0\kerma.domain.dll
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.domain\bin\Debug\net8.0\kerma.domain.pdb
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.domain\obj\Debug\net8.0\kerma.domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.domain\obj\Debug\net8.0\kerma.domain.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.domain\obj\Debug\net8.0\kerma.domain.AssemblyInfo.cs
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.domain\obj\Debug\net8.0\kerma.domain.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.domain\obj\Debug\net8.0\kerma.domain.sourcelink.json
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.domain\obj\Debug\net8.0\kerma.domain.dll
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.domain\obj\Debug\net8.0\refint\kerma.domain.dll
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.domain\obj\Debug\net8.0\kerma.domain.pdb
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.domain\obj\Debug\net8.0\ref\kerma.domain.dll

@@ -1,0 +1,46 @@
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.application\bin\Debug\net8.0\kerma.application.deps.json
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.application\bin\Debug\net8.0\kerma.application.dll
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.application\bin\Debug\net8.0\kerma.application.pdb
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.application\bin\Debug\net8.0\kerma.domain.dll
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.application\bin\Debug\net8.0\kerma.domain.pdb
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.application\obj\Debug\net8.0\kerma.application.csproj.AssemblyReference.cache
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.application\obj\Debug\net8.0\kerma.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.application\obj\Debug\net8.0\kerma.application.AssemblyInfoInputs.cache
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.application\obj\Debug\net8.0\kerma.application.AssemblyInfo.cs
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.application\obj\Debug\net8.0\kerma.application.csproj.CoreCompileInputs.cache
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.application\obj\Debug\net8.0\kerma.ap.3D9882D4.Up2Date
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.application\obj\Debug\net8.0\kerma.application.dll
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.application\obj\Debug\net8.0\refint\kerma.application.dll
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.application\obj\Debug\net8.0\kerma.application.pdb
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.application\obj\Debug\net8.0\ref\kerma.application.dll
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.application\bin\Debug\net8.0\kerma.application.deps.json
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.application\bin\Debug\net8.0\kerma.application.dll
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.application\bin\Debug\net8.0\kerma.application.pdb
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.application\bin\Debug\net8.0\kerma.domain.dll
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.application\bin\Debug\net8.0\kerma.domain.pdb
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.application\obj\Debug\net8.0\kerma.application.csproj.AssemblyReference.cache
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.application\obj\Debug\net8.0\kerma.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.application\obj\Debug\net8.0\kerma.application.AssemblyInfoInputs.cache
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.application\obj\Debug\net8.0\kerma.application.AssemblyInfo.cs
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.application\obj\Debug\net8.0\kerma.application.csproj.CoreCompileInputs.cache
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.application\obj\Debug\net8.0\kerma.ap.3D9882D4.Up2Date
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.application\obj\Debug\net8.0\kerma.application.dll
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.application\obj\Debug\net8.0\refint\kerma.application.dll
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.application\obj\Debug\net8.0\kerma.application.pdb
+C:\Desenvovimento\Dotlin_Kerma\KERMA\kerma.application\obj\Debug\net8.0\ref\kerma.application.dll
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.application\bin\Debug\net8.0\kerma.application.deps.json
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.application\bin\Debug\net8.0\kerma.application.dll
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.application\bin\Debug\net8.0\kerma.application.pdb
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.application\bin\Debug\net8.0\kerma.domain.dll
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.application\bin\Debug\net8.0\kerma.domain.pdb
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.application\obj\Debug\net8.0\kerma.application.csproj.AssemblyReference.cache
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.application\obj\Debug\net8.0\kerma.application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.application\obj\Debug\net8.0\kerma.application.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.application\obj\Debug\net8.0\kerma.application.AssemblyInfo.cs
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.application\obj\Debug\net8.0\kerma.application.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.application\obj\Debug\net8.0\kerma.application.sourcelink.json
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.application\obj\Debug\net8.0\kerma.ap.3D9882D4.Up2Date
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.application\obj\Debug\net8.0\kerma.application.dll
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.application\obj\Debug\net8.0\refint\kerma.application.dll
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.application\obj\Debug\net8.0\kerma.application.pdb
+D:\Desenvolvimento\Dotlin\DOTLIN_QUERMA\KERMA\kerma.application\obj\Debug\net8.0\ref\kerma.application.dll

@@ -1,0 +1,17 @@
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.infra\bin\Debug\net8.0\kerma.infra.deps.json
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.infra\bin\Debug\net8.0\kerma.infra.dll
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.infra\bin\Debug\net8.0\kerma.infra.pdb
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.infra\bin\Debug\net8.0\kerma.application.dll
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.infra\bin\Debug\net8.0\kerma.domain.dll
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.infra\bin\Debug\net8.0\kerma.application.pdb
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.infra\bin\Debug\net8.0\kerma.domain.pdb
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.infra\obj\Debug\net8.0\kerma.infra.csproj.AssemblyReference.cache
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.infra\obj\Debug\net8.0\kerma.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.infra\obj\Debug\net8.0\kerma.infra.AssemblyInfoInputs.cache
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.infra\obj\Debug\net8.0\kerma.infra.AssemblyInfo.cs
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.infra\obj\Debug\net8.0\kerma.infra.csproj.CoreCompileInputs.cache
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.infra\obj\Debug\net8.0\kerma.in.2ADDF0E1.Up2Date
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.infra\obj\Debug\net8.0\kerma.infra.dll
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.infra\obj\Debug\net8.0\refint\kerma.infra.dll
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.infra\obj\Debug\net8.0\kerma.infra.pdb
+C:\Desenvovimento\DOTLIN KERMA\KERMA\kerma.infra\obj\Debug\net8.0\ref\kerma.infra.dll

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "kerma.infra/1.0.0": {
+        "dependencies": {
+          "kerma.application": "1.0.0",
+          "kerma.domain": "1.0.0"
+        },
+        "runtime": {
+          "kerma.infra.dll": {}
+        }
+      },
+      "kerma.application/1.0.0": {
+        "dependencies": {
+          "kerma.domain": "1.0.0"
+        },
+        "runtime": {
+          "kerma.application.dll": {}
+        }
+      },
+      "kerma.domain/1.0.0": {
+        "runtime": {
+          "kerma.domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kerma.infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "kerma.application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "kerma.domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
